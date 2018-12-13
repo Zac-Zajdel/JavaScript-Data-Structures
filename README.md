@@ -4,4 +4,6 @@
 - Arrays
 - Hash Tables
 - Linked Lists
+
+Includes:
 - Big O Notation
