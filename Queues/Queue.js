@@ -45,6 +45,7 @@ class Queue {
   }
 
 }
+
 const myQueue = new Queue();
 console.log(myQueue.enqueue('Google'));
 console.log(myQueue.enqueue('Google 2.0'));

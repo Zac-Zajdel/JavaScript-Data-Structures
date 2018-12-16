@@ -24,16 +24,16 @@ class Stack {
   // Boolean checking if the stack has any values
   isEmpty() {
     if (this.array.length === 0) {
-      return "The stack is empty."
+      return "The stack is empty.";
     } else {
-      return "The stack has items inside of it."
+      return "The stack has items inside of it.";
     }
   }
 }
 
-// const myStack = new Stack();
-// console.log(myStack.push('Google'));
-// console.log(myStack.push('Google 2.0'));
-// console.log(myStack.peek());
-// console.log(myStack.pop());
-// console.log(myStack.isEmpty());
+const myStack = new Stack();
+console.log(myStack.push('Google'));
+console.log(myStack.push('Google 2.0'));
+console.log(myStack.peek());
+console.log(myStack.pop());
+console.log(myStack.isEmpty());
