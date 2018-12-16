@@ -5,6 +5,7 @@
 - Hash Tables
 - Linked Lists
 - Stacks
+- Queue
 
 Includes:
 - Big O Notation

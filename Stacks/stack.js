@@ -1,3 +1,4 @@
+// LIFO
 class Stack {
   constructor() {
     this.array = [];
