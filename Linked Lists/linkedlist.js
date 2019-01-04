@@ -7,7 +7,6 @@ class Node {
   }
 }
 
-// Create the list with full functionality for inserting and deleting items
 class DoublyLinkedList {
   constructor(value) {
     this.head = {

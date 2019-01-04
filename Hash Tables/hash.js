@@ -1,5 +1,3 @@
-// This file creates a hashtable in Javascript using modern ES^ syntax.
-// Author: Zac Zajdel
 class HashTable {
   constructor(size) {
     this.data = new Array(size);

@@ -1,5 +1,3 @@
-// Build the functionality of an array in Javascript
-// Author: Zac Zajdel
 class MyArray {
   constructor() {
     this.length = 0;
