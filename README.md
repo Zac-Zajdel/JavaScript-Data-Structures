@@ -6,10 +6,7 @@
 - Linked Lists
 - Stacks
 - Queue
-- Trees:
-  - Binary Search Tree
-  - A-V-L Tree
-
+- Trees
 
 Includes:
 - Big O Notation
