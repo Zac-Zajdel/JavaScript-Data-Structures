@@ -1,15 +1,15 @@
 # JavaScript-Data-Structures
 
-  Current Data Structures:
+Current Data Structures:
+
 - Arrays
 - Hash Tables
 - Linked Lists
 - Stacks
 - Queue
-- Trees:
-  - Binary Search Tree
-  - A-V-L Tree
+- Binary Search Tree
 
+Sorting Algorithms:
 
-Includes:
-- Big O Notation
+- Bubble Sort
+- Insertion Sort

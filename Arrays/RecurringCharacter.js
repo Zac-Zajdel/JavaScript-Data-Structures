@@ -1,4 +1,4 @@
-// O(n^2) not efficient enough. NOOB
+// O(n^2) not efficient enough
 function firstRecurringCharacter(input) {
   for (let i = 0; i < input.length; i++) {
     for (let j = i + 1; j < input.length; j++) {
